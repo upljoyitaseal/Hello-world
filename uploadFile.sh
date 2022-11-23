@@ -19,7 +19,7 @@ cd $dirPath
 
 #Creating  directory logNew and pm2Log inside logNew
 mkdir logNew
-mkdir logNew/pm2Log
+mkdir logNew/pm2Log////////////////////////////////
 
 #Moving log files to directory
 mv -f  log/* logNew
